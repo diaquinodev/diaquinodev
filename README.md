@@ -1,3 +1,5 @@
+![Diego Aquino, Analista de Dados](assets/banner.png)
+
 # Olá, eu sou o Diego Aquino 👋
 
 **Analista de Dados com experiência prática em ERP, APIs, dashboards, qualidade de dados e automação.**
