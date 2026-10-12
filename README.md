@@ -35,14 +35,16 @@ Projetos de portfólio com dados fictícios ou públicos.
 | 6 | [**radar-marketplace**](https://github.com/diaquinodev/radar-marketplace) | Extração de dados de mercado, inteligência de preços | 25 testes (pytest); CI | Projeto de portfólio |
 | 7 | [**estudio-fotos-marketplace**](https://github.com/diaquinodev/estudio-fotos-marketplace) | Full Stack + GenAI, portfólio | 61 testes (11 de migrações exigem PostgreSQL e rodam no CI); CI | Projeto de portfólio; o README traz um relato do autor sobre o contexto de origem |
 
-## Em estudo
+## Em evolução: de dados para IA aplicada
 
-Itens abaixo são **estudo**, não experiência profissional:
+Hoje atuo com dados e BI. Estou me formando em Ciência de Dados (UNINTER, conclusão em dez/2027) e estudando engenharia de IA e agentes autônomos.
 
+Em estudo (sem experiência profissional ainda):
+
+- SQL avançado e modelagem de dados
+- Databricks / PySpark (na faculdade)
 - BigQuery (usado só em estudo, com dados públicos no projeto inteligencia-de-compra)
-- SQL avançado
-- Modelagem de dados
-- Databricks / PySpark
+- IA aplicada e agentes autônomos: LLMs, function calling e orquestração de fluxos
 
 ## Contato
 
