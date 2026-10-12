@@ -4,19 +4,21 @@
 
 **Analista de Dados com experiência prática em ERP, APIs, dashboards, qualidade de dados e automação.**
 
+Do e-commerce para dados: dashboards, relatórios e automação na operação de marketplaces.
+
 São Paulo, SP · [LinkedIn](https://linkedin.com/in/diegoaquino87)
 
 ## Stack
 
-**SQL** · **Python** · **BigQuery** · **Power BI** · **Power Query** · **ETL/ELT** · **APIs REST** · **Git/GitHub** · **SQL Server**
+**Power BI (DAX, Power Query)** · **SQL** · **Excel avançado** · **Python (pandas)** · **ETL** · **APIs REST** · **Git/GitHub**
 
 IA entra como diferencial (por exemplo, na leitura de contratos, de notas fiscais por imagem e na análise de divergências), nunca no lugar de regra de negócio testada. Minha regra de trabalho: **IA para texto, imagem e ambiguidade; código para regra, dinheiro e validação determinística; humano para decisão crítica.**
 
 ## Projetos
 
-Todos os repositórios têm CI no GitHub Actions. Os números de testes abaixo foram conferidos nos repositórios; onde indico "conforme o README", não executei aquele tipo de teste. Todos são projetos de portfólio, com dados fictícios ou sintéticos.
+Projetos de portfólio com dados fictícios ou públicos.
 
-### Data / Analytics
+### Dados e BI
 
 | # | Projeto | Foco | Testes e CI | Origem |
 | :-: | :--- | :--- | :--- | :--- |
@@ -24,7 +26,7 @@ Todos os repositórios têm CI no GitHub Actions. Os números de testes abaixo f
 | 2 | [**conciliacao-bancaria-automacao**](https://github.com/diaquinodev/conciliacao-bancaria-automacao) | Data Integration, SQL, Python, ETL, dados sintéticos (sem bancos reais) | 30 testes automatizados; CI (Python 3.12 e 3.13) | Projeto de portfólio (dados sintéticos) |
 | 3 | [**dashboard-precificacao**](https://github.com/diaquinodev/dashboard-precificacao) | Analytics, regras de negócio, visualização | 32 testes de unidade + 13 de ponta a ponta (conforme o README); CI | Projeto de portfólio |
 
-### Applied AI / Automation
+### Automação
 
 | # | Projeto | Foco | Testes e CI | Origem |
 | :-: | :--- | :--- | :--- | :--- |
@@ -35,8 +37,9 @@ Todos os repositórios têm CI no GitHub Actions. Os números de testes abaixo f
 
 ## Em estudo
 
-Itens abaixo são **estudo**, não experiência profissional, e ainda **não têm projeto** publicado:
+Itens abaixo são **estudo**, não experiência profissional:
 
+- BigQuery (usado só em estudo, com dados públicos no projeto inteligencia-de-compra)
 - SQL avançado
 - Modelagem de dados
 - Databricks / PySpark
