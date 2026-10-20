@@ -1,20 +1,18 @@
-![Diego Aquino, Analista de Dados](assets/banner.png)
+![Diego Aquino · Analista de Dados e Automação · IA aplicada](assets/banner.png)
 
-# Olá, eu sou o Diego Aquino 👋
+# Diego Aquino · Analista de Dados e Automação | IA aplicada
 
-**Analista de Dados e Automação | IA aplicada com experiência prática em ERP, APIs, dashboards, qualidade de dados e automação.**
+Fui professor de música e editor de áudio. Cansei de repetir tarefa e comecei a automatizar com Python. Desde então, acho o que é repetitivo e transformo em sistema.
 
-Acho o que é repetitivo e transformo em sistema. A IA interpreta, o código calcula e uma pessoa aprova.
+Em e-commerce, cruzando dados fiscais com SQL, encontrei cerca de **R$ 80 mil em notas fiscais canceladas**. Hoje uno dados, automação e IA aplicada: **a IA interpreta, o código calcula e uma pessoa aprova.**
 
-Do e-commerce para dados: dashboards, relatórios e automação na operação de marketplaces.
-
-São Paulo, SP · [LinkedIn](https://linkedin.com/in/diegoaquino87)
+São Paulo, SP · [LinkedIn](https://linkedin.com/in/diegoaquino87) · diaquinotech@gmail.com
 
 ## Stack
 
-**Power BI (DAX, Power Query)** · **SQL** · **Excel avançado** · **Python (pandas)** · **ETL** · **APIs REST** · **Git/GitHub**
+**Python (pandas)** · **SQL** · **APIs REST / integração ERP (Bling)** · **LLM (Gemini, function calling)** · **Power BI (DAX, Power Query)** · **Excel avançado** · **ETL** · **Git/GitHub + CI**
 
-IA entra como diferencial (por exemplo, na leitura de contratos, de notas fiscais por imagem e na análise de divergências), nunca no lugar de regra de negócio testada. Minha regra de trabalho: **IA para texto, imagem e ambiguidade; código para regra, dinheiro e validação determinística; humano para decisão crítica.**
+Uso IA onde há texto, imagem e ambiguidade (contratos, DANFE por foto, análise de divergências), nunca no lugar de regra de negócio testada. Minha regra de trabalho: **IA para texto, imagem e ambiguidade; código para regra, dinheiro e validação determinística; humano para decisão crítica.**
 
 ## Projetos
 
@@ -30,7 +28,7 @@ Projetos de portfólio com dados fictícios ou públicos.
 | 4 | [**radar-marketplace**](https://github.com/diaquinodev/radar-marketplace) | Extração de dados de mercado, inteligência de preços | 25 testes (pytest); CI | Projeto de portfólio |
 | 5 | [**estudio-fotos-marketplace**](https://github.com/diaquinodev/estudio-fotos-marketplace) | Full Stack + GenAI, portfólio | 61 testes (11 de migrações exigem PostgreSQL e rodam no CI); CI | Projeto de portfólio; o README traz um relato do autor sobre o contexto de origem |
 
-### Dados e BI
+### Dados e conciliação
 
 | # | Projeto | Foco | Testes e CI | Origem |
 | :-: | :--- | :--- | :--- | :--- |
@@ -39,7 +37,7 @@ Projetos de portfólio com dados fictícios ou públicos.
 
 ## Em evolução: de dados para IA aplicada
 
-Hoje atuo com dados e BI. Estou me formando em Ciência de Dados (UNINTER, conclusão em dez/2027) e estudando engenharia de IA e agentes autônomos.
+Atuo com dados e automação em e-commerce desde 2023. Curso Ciência de Dados (UNINTER, conclusão em dez/2027) e estou aprofundando em agentes com LLM.
 
 Em estudo (sem experiência profissional ainda):
 
